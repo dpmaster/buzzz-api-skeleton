@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "afb1eadea23e92544ec496a3f70a1843",
+    "packages": [
+        {
+            "name": "buzzz/api",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dpmaster/buzzz-api.git",
+                "reference": "81a765d6b66f42d3d3a548f6b3f70a33d40b1eff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dpmaster/buzzz-api/zipball/81a765d6b66f42d3d3a548f6b3f70a33d40b1eff",
+                "reference": "81a765d6b66f42d3d3a548f6b3f70a33d40b1eff",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Buzzz\\Api\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Fast api",
+            "keywords": [
+                "PHP API"
+            ],
+            "time": "2019-05-05T12:34:19+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
