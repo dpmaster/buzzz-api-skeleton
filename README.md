@@ -4,6 +4,8 @@ Buzzz api skeleton
 Install
 -------
 ```
+git clone https://github.com/dpmaster/buzzz-api-skeleton.git
+cd buzzz-api-skeleton
 composer install
 php -S localhost:8000 -t public/
 ```
