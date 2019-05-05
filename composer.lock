@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "buzzz/api",
-            "version": "1.0.2",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dpmaster/buzzz-api.git",
-                "reference": "81a765d6b66f42d3d3a548f6b3f70a33d40b1eff"
+                "reference": "635878d00f11202145e2987d3a91edd4ac9b7c24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dpmaster/buzzz-api/zipball/81a765d6b66f42d3d3a548f6b3f70a33d40b1eff",
-                "reference": "81a765d6b66f42d3d3a548f6b3f70a33d40b1eff",
+                "url": "https://api.github.com/repos/dpmaster/buzzz-api/zipball/635878d00f11202145e2987d3a91edd4ac9b7c24",
+                "reference": "635878d00f11202145e2987d3a91edd4ac9b7c24",
                 "shasum": ""
             },
             "require": {
@@ -37,7 +37,7 @@
             "keywords": [
                 "PHP API"
             ],
-            "time": "2019-05-05T12:34:19+00:00"
+            "time": "2019-05-05T17:21:48+00:00"
         }
     ],
     "packages-dev": [],
